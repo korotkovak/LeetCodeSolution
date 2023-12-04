@@ -1,1 +1,3 @@
-# LeetCodeSolution
+## Описание
+
+Решенные задачи на LeetCode
